@@ -1,7 +1,7 @@
 
 ---
 
-# Vyakhya AI  
+# Vyakhya AI  2.0
 
 ![Logo](https://github.com/suraj-yadav0/vyakhya_ai-main/assets/90672206/9043b698-2860-4fb8-b247-7c6f922586f3)  
 
@@ -10,8 +10,7 @@ Vyakhya AI is a cutting-edge language translation solution designed to break lin
 ---
 
 ## 🚀 About Me  
-
-Hi, I'm **Suraj Yadav** 👋, a passionate **Flutter Developer** committed to building impactful applications. Vyakhya AI is one of my significant projects, combining innovation and technology to enhance global communication.  
+ Vyakhya AI 2.0 is one of my significant projects, combining innovation and technology to enhance global communication.  
 
 ---
 
